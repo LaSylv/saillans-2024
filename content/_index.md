@@ -21,6 +21,10 @@ outputs = ["Reveal"]
 
 # Restauration
 
+- https://maps.app.goo.gl/5jjinYk83GW3YW4X6
+- https://maps.app.goo.gl/5h4P1DZfjQCAmyJj8
+- https://maps.app.goo.gl/oUV8pDNkDcLNqfBV8
+
 ---
 {{< slide id="vendredi"  transition="zoom" transition-speed="fast" >}}
 

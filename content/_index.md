@@ -12,9 +12,14 @@ outputs = ["Reveal"]
 
 
 ---
-{{< slide id="matos"  transition="zoom" transition-speed="fast" >}}
+{{< slide id="matos"  background-opacity="0.2" background-image="matos.png" transition="zoom" transition-speed="fast" >}}
 
 # Materiel
+
+* Un vélo
+* De quoi faire des sorties longues (Equipements, nourriture, ...)
+* Vetements de vélo adaptés à toutes les météos
+* Des affaires pour courir pour ceux qui veulent
 
 ---
 {{< slide id="resto"  transition="zoom" transition-speed="fast" >}}
@@ -33,6 +38,8 @@ outputs = ["Reveal"]
 
 Arrivées prévues vers 15h + recup du logement -> dispo vers 16h30 ?
 
+Seul jour avec du soleil, donc vaut mieux en profiter
+
 #### 🚲 Col de la boite (30km, 330D+)
 Quoi de mieux que commencer le week end par ~~une bonne boite~~ un petit col local, pour que Jérôme et Gwen nous apprennent le B.A.BA du cyclisme en groupe ?
 [Komoot](https://www.komoot.com/tour/1483773408)
@@ -44,6 +51,8 @@ Quoi de mieux que commencer le week end par ~~une bonne boite~~ un petit col loc
 
 # Samedi
 
+
+
 ---
 {{< slide id="dimanche"  transition="zoom" transition-speed="fast" >}}
 
@@ -53,5 +62,20 @@ Quoi de mieux que commencer le week end par ~~une bonne boite~~ un petit col loc
 {{< slide id="lundi"  transition="zoom" transition-speed="fast" >}}
 
 # Lundi
+
+
+---
+{{< slide id="biblio"  transition="zoom" transition-speed="fast" >}}
+
+# Bibliothèque de tracés
+
+https://www.strava.com/routes/3207079407825290928
+https://www.strava.com/routes/3207077961085354672
+https://www.strava.com/routes/3207077061790133936
+https://www.strava.com/routes/3207076530641289904
+https://www.strava.com/routes/3207039369432055846
+https://www.strava.com/routes/3207025662648636564
+
+https://www.komoot.com/fr-fr/collection/2576442/-saillans-2024
 
 
